@@ -18,6 +18,7 @@ def pdf_conv():
 
     pdf.output("images.pdf", "F")
 
+
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     pdf_conv()
